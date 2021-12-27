@@ -1,1 +1,1 @@
-# This is the html parts only 
+# This is the html, css and javascript parts only 
