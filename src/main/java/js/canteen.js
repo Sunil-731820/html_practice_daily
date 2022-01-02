@@ -463,11 +463,4 @@ var bg_image = new Array("url('images/rest.jpg')", "url('images/rest1.jpg')",
 
 
 		
-        //  alert(menu[0][0]["price"]);
-        //menu[0][1]["price"] = "399";
-        //menu[0][2]["price"] = "75";
-        //menu[0][3]["price"] = "250";
-        //menu[0][4]["price"] = "300";
-        //menu[0][5]["price"] = "399";
-        //menu[0][6]["price"] = "450";
-        //menu[0][7]["price"] = "500";
+      
